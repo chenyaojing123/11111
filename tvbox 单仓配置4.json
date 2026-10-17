@@ -5,7 +5,7 @@
       "key": "jable",
       "name": "Jable",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/chenyaojing123/11111/main/jable.js",
+      "api": "https://cdn.jsdelivr.net/gh/chenyaojing123/11111@main/jable.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -19,4 +19,3 @@
   "wallpaper": "",
   "ads": []
 }
-
