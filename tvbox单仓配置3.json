@@ -1,0 +1,21 @@
+{
+  "_说明": "TVBox / 影视仓 单仓配置。把 jable.js 放到任意可访问的静态地址，然后把下面 api 里的 __JS_URL__ 换成那个地址。",
+  "sites": [
+    {
+      "key": "jable",
+      "name": "Jable",
+      "type": 3,
+      "api": "https://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@raw.githubusercontent.com/chenyaojing123/11111/main/jable.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": ""
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "flags": [],
+  "spider": "",
+  "wallpaper": "",
+  "ads": []
+}
